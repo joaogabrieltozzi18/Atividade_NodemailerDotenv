@@ -1,0 +1,19 @@
+{
+  "name": "hotel-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "express-validator": "^7.2.1",
+    "nodemailer": "^6.10.1"
+  }
+}
